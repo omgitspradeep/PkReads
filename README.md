@@ -28,9 +28,9 @@ allprojects {
 # Features
 
 * Lists all the pdf( with page number) and epub files of your device.
-* Displays both files upon select from list.
-* You can Change (Left to right ) or (Top to Bottom) Reading mode just by pressing any volume UP or DOWN hardware keys.
+* Clicking a file from list displays it's content.
+* You can Change (Left to right ) or (Top to Bottom) Reading mode just by pressing any volume UP or DOWN hardware keys ( only PDF).
 * Lists your last read book in top of all files.
-* Remembers the page number no. when you close the book and directly opens that page next time you click that book from list.
+* Remembers the page number no. when you close the book and directly opens that page next time you click that same book from list.
 * Supports both landscape and portrait screen orientation.
 * No bells attached. Code is easy to understand.
