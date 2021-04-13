@@ -33,4 +33,4 @@ allprojects {
 * Lists your last read book in top of all files.
 * Remembers the page number no. when you close the book and directly opens that page next time you click that book from list.
 * Supports both landscape and portrait screen orientation.
-* No bells attached. Its simple and effective.
+* No bells attached. Code is easy to understand.
